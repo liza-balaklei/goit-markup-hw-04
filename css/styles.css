@@ -141,8 +141,8 @@ li {
 .list-link:focus,
 .header-connect:hover,
 .header-connect:focus,
-.header-cont:hover .contacts-icon,
-.header-cont:focus .contacts-icon,
+.header-connect:hover .contacts-icon,
+.header-connect:focus .contacts-icon,
 .header-cont:hover .header-connect,
 .header-cont:focus .header-connect {
   color: var(--accent-color);
